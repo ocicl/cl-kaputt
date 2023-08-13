@@ -5,5 +5,5 @@ A Simple Interactive Test Framework for Common Lisp
 |---------+------------------------------------------------|
 | source  | git:https://github.com/michipili/cl-kaputt.git |
 | commit  | 28640fd                                        |
-| systems | (kaputt)                                       |
+| systems | kaputt                                         |
 |---------+------------------------------------------------|
